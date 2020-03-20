@@ -1,2 +1,2 @@
 # CoroInfo
-Site d'information sur le coronavirus : http://coronainfo.vchazallet.fr/
+Site d'information sur le coronavirus : https://coronainfo.vchazallet.fr/
